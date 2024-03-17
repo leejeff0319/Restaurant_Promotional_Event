@@ -9,7 +9,7 @@ __pycache__/
 # Dataset
 dataset
 dataset/Restaurant_Sales_Data-Cleaned_Data.csv
-dataset/Restaurant Sales Data-Temperatures.csv
+dataset/Restaurant Sales_Data-Temperatures.csv
 *.csv
 
 # Distribution / packaging
