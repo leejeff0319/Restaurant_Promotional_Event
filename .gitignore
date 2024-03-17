@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Dataset
+dataset/Restaurant_Sales_Data-Cleaned_Data.csv
+*.csv
+
 # Distribution / packaging
 .Python
 build/
