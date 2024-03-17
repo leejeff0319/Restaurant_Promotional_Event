@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Dataset
+dataset
 dataset/Restaurant_Sales_Data-Cleaned_Data.csv
 *.csv
 
