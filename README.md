@@ -30,7 +30,8 @@ The project was driven by three primary objectives aimed at enhancing our restau
 ## <div id="timeline">2. Timeline</span>
 
 June of 2023 was when Sean presented his proposal to the restaurant owner,a longstanding family friend. The owner was very delighted with the idea and approved the usage of a portion of the sales data. We started with using the data collected from May of 2023. The promotional event lasted from mid-July until the end of August that year, but the data was collected until January 2024.
- 
+
+![alt text](images/Timeline.png) 
 </span>
 
 ---
@@ -51,11 +52,11 @@ The data collection process was the longest, and took 8 months, while the analys
 
 The outcomes of our promotional event unveiled a mixed bag of surprises and disappointments. Despite witnessing a remarkable 81.13% surge in noodle sales, our anticipation for a parallel spike in net sales, commensurate with the noodle sales surge, was met with a mere 7.18% increase. This discrepancy between the robust increase in noodle sales and the lackluster growth in net sales confounded our initial expectations.
 
-![alt text](images/Figs3and4.png)
+![alt text](images/Figs3and4.PNG)
 
 Further analysis revealed that while noodle sales experienced a substantial boost exclusively during the event period, the pre- and post-promotion phases demonstrated negligible differences. This temporal pattern suggested that the promotional event itself acted as the primary catalyst for the surge in noodle sales, rather than any sustained, long-term effects on consumer behavior.
 
-![alt text](images/Figs8and9.png)
+![alt text](images/Figs8and9.PNG)
 
 Curiously, despite the significant increase in noodle sales during the event, there were no discernible visual differences in net sales over time, with all results consistently falling within the margins of error. This observation underscored the complexity of the factors influencing overall net sales performance, which appeared impervious to the fluctuations in noodle sales.
  
@@ -82,7 +83,7 @@ Unfortunately, Goal 2 was not successfully met because the net sales only increa
  
 Despite the initial success in skyrocketing noodle sales during our promotional events, Goal 3 proved elusive as sales sharply declined post-event, mirroring the graph depicting the percentage of noodle sales and the total number of noodles sold each day. This decline highlighted the transient nature of the sales surge, tied closely to the event's duration. The inability to sustain momentum post-event underscored the challenge of retaining customer interest and engagement over the long term. Moving forward, we recognize the imperative of strategies that cultivate enduring customer loyalty, emphasizing the need for more comprehensive approaches to achieve our objectives.
 
-![alt text](images/GoalsReflection.png)
+![alt text](images/GoalsReflection.PNG)
 
 Other than these items mentioned, there were also many other points that could be improved in the future. Most importantly, there was a clear limitation in the dataset we were working with. We may have been able to achieve more insightful conclusions with a larger dataset spanning over a couple of years. Such a dataset would have been ideal because we would have been able to test the seasonality of the sales and also compare the dataset with data from different years. However, the restaurant was relatively newly opened at the time of the data collection, and this will take a very long time to achieve. 
  
