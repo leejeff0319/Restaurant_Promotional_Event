@@ -7,8 +7,6 @@ __pycache__/
 *.so
 
 # Dataset
-images
-*.png
 dataset
 dataset/Restaurant_Sales_Data-Cleaned_Data.csv
 dataset/Restaurant Sales_Data-Temperatures.csv

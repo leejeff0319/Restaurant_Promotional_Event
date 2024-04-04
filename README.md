@@ -71,6 +71,7 @@ While our analysis indicated a successful increase in noodle sales during the pr
 ![alt text](images/Fig10.png)
 
 Drawing on data sourced from /ipm.ucanr.edu, we conducted a correlation analysis between noodle sales percentages and maximum air temperatures. Surprisingly, our findings revealed a positive correlation between these variables, suggesting that warmer temperatures indeed coincided with heightened noodle sales. This correlation underscored the nuanced interplay between environmental factors and consumer behavior, shedding light on additional dynamics influencing our sales outcomes.
+
 ![alt text](images/Figs11and12.png)
 ---
 ## <div id="Reflection">6. Reflection</span>
