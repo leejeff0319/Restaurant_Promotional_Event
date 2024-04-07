@@ -1,4 +1,5 @@
 # Restaurant Promotional Event
+Please refer to our Restaurant Promotion Event.pdf or Restaurant Promotion Event.pptx too.
 
 ## Motivation
 
